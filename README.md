@@ -78,3 +78,7 @@
   <li><b>Email:</b> kirill.rastrygin@gmail.com</li>
   <li><b>Telegram:</b> <a href="https://t.me/KirillRastrygin">@KirillRastrygin</a></li>
 </ul>
+
+---
+
+<h2>📂 Примеры реализованных проектов</h2>
